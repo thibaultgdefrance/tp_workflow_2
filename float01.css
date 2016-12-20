@@ -1,0 +1,44 @@
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.habillage {
+	float: left;
+	margin: 0 10px 0 0;
+}
+
+p {
+	text-align: justify;
+}
+
+.colonne1 {
+	float: left;
+	width: 33%;
+	padding: 0 5px;
+}
+
+.colonne2 {
+	float: left;
+	width: 25%;
+	padding: 0 5px;
+}
+
+
+}
+
+.ligne::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+	
+.fond-bleu {
+	background-color: blue;
+}
+
+.fond-rouge {
+	background-color: red;
+}

@@ -1,0 +1,13 @@
+section {
+	border: 3px solid DarkSlateBlue;
+	margin-bottom: 10px;
+	
+}
+
+article {
+	background-color : RoyalBlue;
+}
+
+main article {
+	background-color: LightSteelBlue;
+}

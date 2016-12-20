@@ -1,0 +1,16 @@
+.composant .label {
+	display: inline-block;
+	width: 70px
+}
+
+.composant .champ {
+	display: inline-block;
+}
+.composant {
+	margin-bottom: 10px;
+	padding : 5px;
+	border: solid black 1px;
+}
+.champ-bg {
+	background-color : Silver;
+}

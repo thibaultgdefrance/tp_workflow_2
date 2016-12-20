@@ -1,0 +1,59 @@
+body {
+		background-color : LemonChiffon;
+}
+h1, h2 { 
+		color : DarkSlateBlue;
+		text-align : center;
+}
+ul {
+		color : DarkSlateBlue;
+}
+h1 {
+		font-size :40px;
+		font-weight : bold;
+}
+.bluetext {
+		color : DarkSlatBlue;
+}
+.section {
+		border : 2px solid DarkSlateBlue;
+		margin-top : 20px;
+		padding : 0px 10px 10px
+}
+#titre {
+		margin : auto;
+		margin-bottom : 50px;
+		text-align : center;
+		background-color : LightBlue;
+}
+
+#dev {
+		color : #7c71c1;
+		font-size : 25px;
+}
+#aboutme {
+		font-size : 25px;
+}
+#photo {
+		position : static;
+		height : 150px;
+		width : 150px ;
+}
+#coord {
+	position : absolute;
+	left : 170px;
+	top : 350px;
+	font-size : 20px; 
+}
+#prestexte {
+	color : #2e2759;
+}
+#skills {
+	margin : auto;
+	text-align: center;
+}
+.logo {
+	height : 50px;
+	width : 50px;
+}
+

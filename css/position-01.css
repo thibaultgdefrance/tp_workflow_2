@@ -1,0 +1,33 @@
+.carre-petit {
+	height: 100px;
+	width: 100px;
+}
+.carre-grand {
+	height: 200px;
+	width: 200px;
+}
+#carre-1 {
+	background-color: red;
+	position: relative;
+	left: 300px;
+	top: 50px;
+}
+
+#carre-2 {
+	background-color: green;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+#carre-3 {
+	background-color: blue;
+	position: relative;
+}
+
+#carre-4 {
+	background-color: yellow;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}

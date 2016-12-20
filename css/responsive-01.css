@@ -1,0 +1,16 @@
+.carre {
+	width: 100px;
+	height: 200px;
+}
+
+@media screen and (max-width: 799px) {
+	.carre {
+		background-color: blue
+	}
+}
+
+@media screen and (min-width: 800px) {
+	.carre {
+		background-color: red;
+	}
+}

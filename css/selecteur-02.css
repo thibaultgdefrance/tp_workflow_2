@@ -1,0 +1,12 @@
+.section {
+	border: solid 1px DarkSlateblue;
+	margin-bottom: 10px;
+}
+
+.article {
+	background-color: RoyalBlue;
+}
+
+.main .article {
+	background-color: PowderBlue;
+}
